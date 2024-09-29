@@ -43,7 +43,6 @@ def duplicate(msg):
             if msg[i] == msg[j]:
                 return True
     return False
-print(duplicate('df'))
 
 """write a function to find the maximum value of the three int parameters
 - allow only int as input parameter
